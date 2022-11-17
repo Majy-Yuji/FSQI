@@ -6,7 +6,7 @@ We want to developed a novel Fetal heart rate Signal Quality Index (FSQI) for si
 
 ## Data
 
-FHR recordings each lasting 20 minutes using wearable devices. 
+1000 FHR recordings each lasting 20 minutes collected by wearable devices. 
 
 ## Method
 
