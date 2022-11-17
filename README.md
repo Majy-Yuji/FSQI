@@ -12,21 +12,21 @@ FHR recordings each lasting 20 minutes using wearable devices.
 
 ### Human-in-the-loop strategy
 
-![](D:\project\fsqi\FSQI\pics\fw.png)
+![](pics\fw.png)
 
 ### FSQI algorithm
 
-![](D:\project\fsqi\FSQI\pics\diagram.png)
+![](pics\diagram.png)
 
 
 
 ### post-processing technique
 
-![](D:\project\fsqi\FSQI\pics\Fine-grained Detection.png)
+![](pics\Fine-grained Detection.png)
 
 ### Application in fetal deceleration events
 
-![](D:\project\fsqi\FSQI\pics\improve.png)
+![](pics\improve.png)
 
 ## Results
 
@@ -41,7 +41,7 @@ The confusion matrix of using final FSQI for signal quality classification. The 
 
 ### FSQI in fetal deceleration events
 
-![](D:\project\fsqi\FSQI\pics\11.png)
+![](pics\11.png)
 
 The red rectangle represents bad quality segments, the yellow rectangle represents deceleration events.
 
