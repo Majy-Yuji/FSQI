@@ -12,7 +12,7 @@ FHR recordings each lasting 20 minutes using wearable devices.
 
 ### Human-in-the-loop strategy
 
-![](pics\fw.png)
+![](pics/fw.png)
 
 ### FSQI algorithm
 
