@@ -18,8 +18,6 @@ FHR recordings each lasting 20 minutes using wearable devices.
 
 ![](pics\diagram.png)
 
-
-
 ### post-processing technique
 
 ![](pics\Fine-grained Detection.png)
