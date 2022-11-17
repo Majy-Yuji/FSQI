@@ -16,15 +16,15 @@ FHR recordings each lasting 20 minutes using wearable devices.
 
 ### FSQI algorithm
 
-![](pics\diagram.png)
+![](pics/diagram.png)
 
 ### post-processing technique
 
-![](pics\Fine-grained Detection.png)
+![](pics/Fine-grained Detection.png)
 
 ### Application in fetal deceleration events
 
-![](pics\improve.png)
+![](pics/improve.png)
 
 ## Results
 
@@ -39,7 +39,7 @@ The confusion matrix of using final FSQI for signal quality classification. The 
 
 ### FSQI in fetal deceleration events
 
-![](pics\11.png)
+![](pics/11.png)
 
 The red rectangle represents bad quality segments, the yellow rectangle represents deceleration events.
 
