@@ -20,7 +20,7 @@ FHR recordings each lasting 20 minutes using wearable devices.
 
 ### post-processing technique
 
-![](pics/Fine-grained Detection.png)
+![](pics/Fine-grained.png)
 
 ### Application in fetal deceleration events
 
